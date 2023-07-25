@@ -2,8 +2,9 @@
 
 Made Amazon Home Page Clone Using HTML and CSS 
 
-Link to website : https://arpit5220.github.io/Amazon-Clone/
+Link to website : https://anujkatiyar661.github.io/Amazon-Clone/
 
-![Amazon-Clone](https://github.com/arpit5220/Amazon-Clone/assets/94009815/7adc58c3-6df0-400e-92b2-3c1be46b419c)
+![image](https://github.com/AnujKatiyar661/Amazon-Clone/assets/106858176/0b4c7f6a-0fe9-4a93-a536-7fc3f4a8619f)
+
 
 
